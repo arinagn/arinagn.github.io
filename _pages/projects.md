@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitHub Projects
+title: projects
 permalink: /projects/
 description: A growing collection mini-projects available on GitHub.
 nav: true
