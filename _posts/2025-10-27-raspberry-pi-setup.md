@@ -1,9 +1,10 @@
 ---
 layout: post
 title: My Raspberry Pi 5 Setup
-date: 2025-10-27 21:20:00
+date: 2025-10-27
 description: Overview of RPi5 setup for AI/ML usecases
 tags: raspberry-pi ml ai hardware
+categories: sample-posts
 ---
 
 Over the past couple weeks, I’ve been putting together a Raspberry Pi 5 setup tailored for **machine learning** and **AI experiments** — a small but capable device that’s going to be the heart of my edge AI projects, and a playground for hybrid cloud-local workflows and deployment experiments.
