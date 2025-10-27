@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-github-projects",
+          title: "GitHub Projects",
+          description: "A growing collection mini-projects available on GitHub.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-deep-learning-specialization",
+          title: 'Deep Learning Specialization',
+          description: "Notes and mini-projects from Andrew Ng&#39;s course",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
