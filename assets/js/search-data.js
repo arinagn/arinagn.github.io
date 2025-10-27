@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-my-raspberry-pi-5-setup",
+        
+          title: "My Raspberry Pi 5 Setup",
+        
+        description: "Overview of RPi5 setup for AI/ML usecases",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/raspberry-pi-setup/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
