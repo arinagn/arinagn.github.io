@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: GitHub Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection mini-projects available on GitHub.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
