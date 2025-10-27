@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-This GitHub repository is more of a learning diary than a project. It contains my hand-written notes as well as code snippets and mini-projects I've decided to build after finishing different modules in Andrew Ng's Deep Learning specialisation. 
+This GitHub repository is more of a learning diary than a project. It contains my hand-written notes as well as code snippets and mini-projects I've decided to build after finishing different modules in Andrew Ng's Deep Learning specialisation.
 
 In the blog tab, you will find posts hashtaged #deep-learn-spec, which document concepts from the course and implementation examples.
 
