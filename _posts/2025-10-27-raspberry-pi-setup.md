@@ -47,8 +47,6 @@ Each experiment will be documented here, with links to the corresponding code an
 
 ### Final Thoughts
 
-Setting up the Raspberry Pi 5 has been surprisingly close to setting up a miniature ML workstation. The combination of a fast NVMe drive, active cooling, and 8GB of RAM makes it feel like a true development machine rather than a toy computer.
-
 This project is as much about **learning the systems side of ML engineering** — storage, optimization, edge computing — as it is about building models.  
 If you’re curious about small-scale AI setups or hybrid ML workflows, stay tuned — this is just the beginning.
 
