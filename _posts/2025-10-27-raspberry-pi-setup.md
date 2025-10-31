@@ -52,4 +52,4 @@ If you’re curious about small-scale AI setups or hybrid ML workflows, stay tun
 
 ---
 
-_Next up: SSHing into the RPi5 from a Mac, configuring the NVMe base, and setting up the ML environment from scratch._
+_Next up: SSHing into the RPi5 from a Mac, configuring the NVMe base, and moving the OS filesystem from the microSD card to the NVMe SSD._
